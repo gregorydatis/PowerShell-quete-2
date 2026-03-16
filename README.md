@@ -43,4 +43,29 @@
   39 Get-ChildItem -Path C:\EvenFolder                                                                       
   40 Get-ChildItem -Path C:\OddFolder                                                                        
 
+ Répertoire : C:\EvenFolder
+
+
+Mode                 LastWriteTime         Length Name                                                       
+----                 -------------         ------ ----                                                       
+-a----        16/03/2026     11:13              0 File10                                                     
+-a----        16/03/2026     11:13              0 File2                                                      
+-a----        16/03/2026     11:13              0 File4                                                      
+-a----        16/03/2026     11:13              0 File6                                                      
+-a----        16/03/2026     11:13              0 File8                                                      
+
+
+    Répertoire : C:\OddFolder
+
+
+Mode                 LastWriteTime         Length Name                                                       
+----                 -------------         ------ ----                                                       
+-a----        16/03/2026     11:13              0 File1                                                      
+-a----        16/03/2026     11:13              0 File3                                                      
+-a----        16/03/2026     11:13              0 File5                                                      
+-a----        16/03/2026     11:13              0 File7                                                      
+-a----        16/03/2026     11:13              0 File9                                                      
+
+
+
 
