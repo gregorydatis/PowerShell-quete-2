@@ -1,3 +1,6 @@
+Répertoire : C:\EvenFolder
+
+Mode LastWriteTime Length Name
 -a---- 16/03/2026 11:13 0 File10
 -a---- 16/03/2026 11:13 0 File2
 -a---- 16/03/2026 11:13 0 File4
@@ -7,7 +10,6 @@
 Répertoire : C:\OddFolder
 
 Mode LastWriteTime Length Name
-
 -a---- 16/03/2026 11:13 0 File1
 -a---- 16/03/2026 11:13 0 File3
 -a---- 16/03/2026 11:13 0 File5
